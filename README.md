@@ -31,8 +31,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Research Fellowship - Estimating robust guassian mixture models through tensor decomposition](https://github.com/Blaine-Mason/NSF-Phase2)
-- [Python PongAI - Trained an AI to play the game Pong using the NEAT (Neuroevolution of Augmenting Topologies) algorithm with Python.](https://www.youtube.com/watch?v=ohYJswoGlH0)
+- [Python PongAI - Trained an AI to play the game Pong using the NEAT (Neuroevolution of Augmenting Topologies) algorithm with Python.](https://github.com/jamesmontebell/PongAI)
 - [Pokédex - JavaScript, HTML and CSS](https://github.com/jamesmontebell/PokeJsDex)
 <!-- BLOG-POST-LIST:END -->
 
-[![Bluey Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesmontebell&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![James Montebell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesmontebell&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
