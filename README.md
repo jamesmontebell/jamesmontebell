@@ -1,6 +1,6 @@
 ![1665459541727](https://i.imgur.com/cq4f1o8.jpg)
 
-#Hi 👋, I'm James Montebell
+# Hi 👋, I'm James Montebell
 
 * 📚 Computer Science Student at Salisbury University - Henson School of Science & Technology
 * 💻 Seeking Summer Internship for Software Engineering, Software Development, or Data Science
